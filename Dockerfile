@@ -1,6 +1,6 @@
 # Dockerfile for Windows cross-building using MinGW
 # 
-# Copyright (c) Microsoft Corporation
+# Copyright (c) Davide Rondini
 # All rights reserved. 
 #
 # MIT License (see LICENSE file)
